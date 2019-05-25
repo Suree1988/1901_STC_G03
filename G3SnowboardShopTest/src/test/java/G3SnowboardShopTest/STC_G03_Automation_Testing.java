@@ -1,5 +1,7 @@
 package G3SnowboardShopTest;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
@@ -65,7 +67,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		
 		String error = driver.findElement(By.cssSelector(".z-1-text.z-1-notification__content.z-1-text-detail-micro.z-1-text-black")).getText();
 		System.out.println(error);
-		assertEquals(error, "Ange en giltig e-postadress, t.ex. namn@domain.se");
+		AssertJUnit.assertEquals(error, "Ange en giltig e-postadress, t.ex. namn@domain.se");
 		
 	}
 	
@@ -99,7 +101,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 			logger.createNode("Felmeddelanden ska visas");
 			String error = driver.findElement(By.cssSelector(".z-1-notification.z-1-field__notification.z-1-notification--inline.z-1-notification--error.z-1-notification--text-small")).getText();
 			System.out.println(error);	
-			assertEquals(error, "För lång inmatning.");
+			AssertJUnit.assertEquals(error, "För lång inmatning.");
 			
 		}else {
 			logger.createNode("Att det inte ska bli några felmeddelanden");
@@ -126,7 +128,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		
 		String loginMessage = driver.findElement(By.cssSelector(".z-coast-reef_login_headline")).getText();
 		System.out.println(loginMessage);
-		assertEquals(loginMessage, "Välkommen till Zalando! Logga in med dina användaruppgifter.");
+		AssertJUnit.assertEquals(loginMessage, "Välkommen till Zalando! Logga in med dina användaruppgifter.");
 		
 	}
 	
@@ -177,7 +179,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		
 		String error = driver.findElement(By.cssSelector(".z-1-notification.z-1-field__notification.z-1-notification--inline.z-1-notification--error.z-1-notification--text-small")).getText();
 		System.out.println(error);
-		assertTrue(error.contains("Ogiltigt val"));
+		AssertJUnit.assertTrue(error.contains("Ogiltigt val"));
 	}
 	
 	@DataProvider(name="email-data-provider")
@@ -239,7 +241,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 			logger.createNode("Felmeddelanden ska visas");
 			String error = driver.findElement(By.cssSelector(".z-1-notification.z-1-field__notification.z-1-notification--inline.z-1-notification--error.z-1-notification--text-small")).getText();
 			System.out.println(error);	
-			assertEquals(error, "För lång inmatning.");
+			AssertJUnit.assertEquals(error, "För lång inmatning.");
 			
 		}else {
 			logger.createNode("Att det inte ska bli några felmeddelanden");
@@ -264,7 +266,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		logger.createNode("Det ska inte gå att klistra in text i fälten");
 		String url = driver.getCurrentUrl();
 		System.out.println(url);
-		assertEquals(url, "https://www.zalando.se/login/?view=register");
+		AssertJUnit.assertEquals(url, "https://www.zalando.se/login/?view=register");
 		
 	}
 	
@@ -313,7 +315,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		logger.createNode("Lösenordet bör visas i databasen.");
 		String url = driver.getCurrentUrl();
 		System.out.println(url);
-		assertEquals(url, "https://www.zalando.se/login/?view=register");
+		AssertJUnit.assertEquals(url, "https://www.zalando.se/login/?view=register");
 			
 	}
 	
@@ -377,7 +379,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		
 	   String url = driver.getCurrentUrl();
 	   System.out.println(url);
-	   assertEquals(url, "https://www.zalando.se/kvinna-home/");
+	   AssertJUnit.assertEquals(url, "https://www.zalando.se/kvinna-home/");
 	    
 	}
 	
@@ -424,7 +426,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		logger.createNode("Produkterna ska visas i varukorgen efter att man tryckt på \"Köp\"");
 		String shop = driver.findElement(By.xpath("//*[@id=\"sc-active-cart\"]/div/div/h2")).getText();
 		System.out.println(shop);
-		assertEquals(shop, "Shopping Basket");
+		AssertJUnit.assertEquals(shop, "Shopping Basket");
 		
 //		driver.findElement(By.cssSelector(".a-button.a-button-normal.a-button-span12.a-button-primary.fixedWidth210")).click();
 //		
