@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="1" ignored="0" total="27" passed="26">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="541770" started-at="2019-05-25T16:12:38Z" finished-at="2019-05-25T16:21:40Z">
+  <suite name="Suite1" duration-ms="497275" started-at="2019-05-25T18:25:33Z" finished-at="2019-05-25T18:33:50Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="541770" started-at="2019-05-25T16:12:38Z" finished-at="2019-05-25T16:21:40Z">
+    <test name="Test1" duration-ms="497275" started-at="2019-05-25T18:25:33Z" finished-at="2019-05-25T18:33:50Z">
       <class name="G3SnowboardShopTest.STC_G03_Automation_Testing">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="startReport" is-config="true" duration-ms="135" started-at="2019-05-25T16:12:38Z" finished-at="2019-05-25T16:12:38Z">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="startReport" is-config="true" duration-ms="125" started-at="2019-05-25T18:25:33Z" finished-at="2019-05-25T18:25:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="1509" started-at="2019-05-25T16:12:38Z" finished-at="2019-05-25T16:12:40Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="1109" started-at="2019-05-25T18:25:33Z" finished-at="2019-05-25T18:25:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_19_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_1" duration-ms="2891" started-at="2019-05-25T16:12:40Z" finished-at="2019-05-25T16:12:43Z">
+        <test-method status="PASS" signature="TC_19_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_1" duration-ms="1807" started-at="2019-05-25T18:25:34Z" finished-at="2019-05-25T18:25:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_19_1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="93" started-at="2019-05-25T16:12:43Z" finished-at="2019-05-25T16:12:43Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="88" started-at="2019-05-25T18:25:36Z" finished-at="2019-05-25T18:25:36Z">
           <params>
             <param index="0">
               <value>
@@ -30,11 +30,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="786" started-at="2019-05-25T16:12:43Z" finished-at="2019-05-25T16:12:44Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="643" started-at="2019-05-25T18:25:36Z" finished-at="2019-05-25T18:25:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_19_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_2" duration-ms="4391" started-at="2019-05-25T16:12:44Z" data-provider="password-db-data-provider" finished-at="2019-05-25T16:12:48Z">
+        <test-method status="PASS" signature="TC_19_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_2" duration-ms="3508" started-at="2019-05-25T18:25:37Z" data-provider="password-db-data-provider" finished-at="2019-05-25T18:25:40Z">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_19_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="80" started-at="2019-05-25T16:12:48Z" finished-at="2019-05-25T16:12:48Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="101" started-at="2019-05-25T18:25:40Z" finished-at="2019-05-25T18:25:40Z">
           <params>
             <param index="0">
               <value>
@@ -71,11 +71,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="766" started-at="2019-05-25T16:12:48Z" finished-at="2019-05-25T16:12:49Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="640" started-at="2019-05-25T18:25:40Z" finished-at="2019-05-25T18:25:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_19_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_2" duration-ms="4529" started-at="2019-05-25T16:12:49Z" data-provider="password-db-data-provider" finished-at="2019-05-25T16:12:53Z">
+        <test-method status="PASS" signature="TC_19_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_2" duration-ms="3760" started-at="2019-05-25T18:25:41Z" data-provider="password-db-data-provider" finished-at="2019-05-25T18:25:45Z">
           <params>
             <param index="0">
               <value>
@@ -101,7 +101,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_19_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="75" started-at="2019-05-25T16:12:53Z" finished-at="2019-05-25T16:12:53Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="72" started-at="2019-05-25T18:25:45Z" finished-at="2019-05-25T18:25:45Z">
           <params>
             <param index="0">
               <value>
@@ -112,11 +112,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="875" started-at="2019-05-25T16:12:53Z" finished-at="2019-05-25T16:12:54Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="646" started-at="2019-05-25T18:25:45Z" finished-at="2019-05-25T18:25:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_19_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_2" duration-ms="4857" started-at="2019-05-25T16:12:54Z" data-provider="password-db-data-provider" finished-at="2019-05-25T16:12:59Z">
+        <test-method status="PASS" signature="TC_19_2(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_19_2" duration-ms="3718" started-at="2019-05-25T18:25:45Z" data-provider="password-db-data-provider" finished-at="2019-05-25T18:25:49Z">
           <params>
             <param index="0">
               <value>
@@ -142,7 +142,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_19_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="71" started-at="2019-05-25T16:12:59Z" finished-at="2019-05-25T16:12:59Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="71" started-at="2019-05-25T18:25:49Z" finished-at="2019-05-25T18:25:49Z">
           <params>
             <param index="0">
               <value>
@@ -153,15 +153,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="789" started-at="2019-05-25T16:12:59Z" finished-at="2019-05-25T16:13:00Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="626" started-at="2019-05-25T18:25:49Z" finished-at="2019-05-25T18:25:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_1" duration-ms="11321" started-at="2019-05-25T16:13:00Z" finished-at="2019-05-25T16:13:11Z">
+        <test-method status="PASS" signature="TC_2_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_1" duration-ms="8773" started-at="2019-05-25T18:25:50Z" finished-at="2019-05-25T18:25:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="76" started-at="2019-05-25T16:13:11Z" finished-at="2019-05-25T16:13:11Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="87" started-at="2019-05-25T18:25:58Z" finished-at="2019-05-25T18:25:59Z">
           <params>
             <param index="0">
               <value>
@@ -172,11 +172,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="589" started-at="2019-05-25T16:13:11Z" finished-at="2019-05-25T16:13:12Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="673" started-at="2019-05-25T18:25:59Z" finished-at="2019-05-25T18:25:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="8383" started-at="2019-05-25T16:13:12Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T16:13:20Z">
+        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="9075" started-at="2019-05-25T18:25:59Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T18:26:08Z">
           <params>
             <param index="0">
               <value>
@@ -192,7 +192,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="75" started-at="2019-05-25T16:13:20Z" finished-at="2019-05-25T16:13:20Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="74" started-at="2019-05-25T18:26:08Z" finished-at="2019-05-25T18:26:08Z">
           <params>
             <param index="0">
               <value>
@@ -203,11 +203,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="590" started-at="2019-05-25T16:13:20Z" finished-at="2019-05-25T16:13:21Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="605" started-at="2019-05-25T18:26:08Z" finished-at="2019-05-25T18:26:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="8608" started-at="2019-05-25T16:13:21Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T16:13:30Z">
+        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="7665" started-at="2019-05-25T18:26:09Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T18:26:17Z">
           <params>
             <param index="0">
               <value>
@@ -223,7 +223,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="78" started-at="2019-05-25T16:13:30Z" finished-at="2019-05-25T16:13:30Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="74" started-at="2019-05-25T18:26:17Z" finished-at="2019-05-25T18:26:17Z">
           <params>
             <param index="0">
               <value>
@@ -234,11 +234,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="709" started-at="2019-05-25T16:13:30Z" finished-at="2019-05-25T16:13:30Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="631" started-at="2019-05-25T18:26:17Z" finished-at="2019-05-25T18:26:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="8674" started-at="2019-05-25T16:13:30Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T16:13:39Z">
+        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="7715" started-at="2019-05-25T18:26:17Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T18:26:25Z">
           <params>
             <param index="0">
               <value>
@@ -254,7 +254,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="74" started-at="2019-05-25T16:13:39Z" finished-at="2019-05-25T16:13:39Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="75" started-at="2019-05-25T18:26:25Z" finished-at="2019-05-25T18:26:25Z">
           <params>
             <param index="0">
               <value>
@@ -265,11 +265,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="537" started-at="2019-05-25T16:13:39Z" finished-at="2019-05-25T16:13:40Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="602" started-at="2019-05-25T18:26:25Z" finished-at="2019-05-25T18:26:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="8312" started-at="2019-05-25T16:13:40Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T16:13:48Z">
+        <test-method status="PASS" signature="TC_2_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_2" duration-ms="7820" started-at="2019-05-25T18:26:26Z" data-provider="emails-and-passwords-unusual-data-provider" finished-at="2019-05-25T18:26:34Z">
           <params>
             <param index="0">
               <value>
@@ -285,7 +285,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="72" started-at="2019-05-25T16:13:48Z" finished-at="2019-05-25T16:13:48Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="81" started-at="2019-05-25T18:26:34Z" finished-at="2019-05-25T18:26:34Z">
           <params>
             <param index="0">
               <value>
@@ -296,11 +296,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="580" started-at="2019-05-25T16:13:48Z" finished-at="2019-05-25T16:13:49Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="612" started-at="2019-05-25T18:26:34Z" finished-at="2019-05-25T18:26:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="8012" started-at="2019-05-25T16:13:49Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T16:13:57Z">
+        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="7853" started-at="2019-05-25T18:26:34Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T18:26:42Z">
           <params>
             <param index="0">
               <value>
@@ -316,7 +316,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_3_2_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="73" started-at="2019-05-25T16:13:57Z" finished-at="2019-05-25T16:13:57Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="73" started-at="2019-05-25T18:26:42Z" finished-at="2019-05-25T18:26:42Z">
           <params>
             <param index="0">
               <value>
@@ -327,11 +327,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="557" started-at="2019-05-25T16:13:57Z" finished-at="2019-05-25T16:13:57Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="611" started-at="2019-05-25T18:26:42Z" finished-at="2019-05-25T18:26:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="8832" started-at="2019-05-25T16:13:57Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T16:14:06Z">
+        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="8245" started-at="2019-05-25T18:26:43Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T18:26:51Z">
           <params>
             <param index="0">
               <value>
@@ -347,7 +347,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_3_2_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="73" started-at="2019-05-25T16:14:06Z" finished-at="2019-05-25T16:14:06Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="77" started-at="2019-05-25T18:26:51Z" finished-at="2019-05-25T18:26:51Z">
           <params>
             <param index="0">
               <value>
@@ -358,11 +358,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="550" started-at="2019-05-25T16:14:06Z" finished-at="2019-05-25T16:14:07Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="629" started-at="2019-05-25T18:26:51Z" finished-at="2019-05-25T18:26:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="10352" started-at="2019-05-25T16:14:07Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T16:14:17Z">
+        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="9452" started-at="2019-05-25T18:26:52Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T18:27:01Z">
           <params>
             <param index="0">
               <value>
@@ -378,7 +378,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_3_2_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="75" started-at="2019-05-25T16:14:17Z" finished-at="2019-05-25T16:14:17Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="87" started-at="2019-05-25T18:27:01Z" finished-at="2019-05-25T18:27:01Z">
           <params>
             <param index="0">
               <value>
@@ -389,11 +389,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="554" started-at="2019-05-25T16:14:17Z" finished-at="2019-05-25T16:14:18Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="632" started-at="2019-05-25T18:27:01Z" finished-at="2019-05-25T18:27:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="8316" started-at="2019-05-25T16:14:18Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T16:14:26Z">
+        <test-method status="PASS" signature="TC_2_3_2_4(java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_3_2_4" duration-ms="9255" started-at="2019-05-25T18:27:02Z" data-provider="emails-correct-number-data-provider" finished-at="2019-05-25T18:27:11Z">
           <params>
             <param index="0">
               <value>
@@ -409,7 +409,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_3_2_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="73" started-at="2019-05-25T16:14:26Z" finished-at="2019-05-25T16:14:26Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="73" started-at="2019-05-25T18:27:11Z" finished-at="2019-05-25T18:27:11Z">
           <params>
             <param index="0">
               <value>
@@ -420,15 +420,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="558" started-at="2019-05-25T16:14:26Z" finished-at="2019-05-25T16:14:27Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="683" started-at="2019-05-25T18:27:11Z" finished-at="2019-05-25T18:27:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_2_5()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_5" duration-ms="10713" started-at="2019-05-25T16:14:27Z" finished-at="2019-05-25T16:14:37Z">
+        <test-method status="PASS" signature="TC_2_5()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_2_5" duration-ms="11802" started-at="2019-05-25T18:27:12Z" finished-at="2019-05-25T18:27:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_2_5 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="71" started-at="2019-05-25T16:14:37Z" finished-at="2019-05-25T16:14:37Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="83" started-at="2019-05-25T18:27:24Z" finished-at="2019-05-25T18:27:24Z">
           <params>
             <param index="0">
               <value>
@@ -439,15 +439,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="558" started-at="2019-05-25T16:14:37Z" finished-at="2019-05-25T16:14:38Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="641" started-at="2019-05-25T18:27:24Z" finished-at="2019-05-25T18:27:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_1" duration-ms="1980" started-at="2019-05-25T16:14:38Z" finished-at="2019-05-25T16:14:40Z">
+        <test-method status="PASS" signature="TC_3_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_1" duration-ms="1805" started-at="2019-05-25T18:27:24Z" finished-at="2019-05-25T18:27:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="69" started-at="2019-05-25T16:14:40Z" finished-at="2019-05-25T16:14:40Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="76" started-at="2019-05-25T18:27:26Z" finished-at="2019-05-25T18:27:26Z">
           <params>
             <param index="0">
               <value>
@@ -458,11 +458,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="549" started-at="2019-05-25T16:14:40Z" finished-at="2019-05-25T16:14:41Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="640" started-at="2019-05-25T18:27:26Z" finished-at="2019-05-25T18:27:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_2" duration-ms="5456" started-at="2019-05-25T16:14:41Z" data-provider="name-data-provider" finished-at="2019-05-25T16:14:46Z">
+        <test-method status="PASS" signature="TC_3_2(java.lang.String, java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_2" duration-ms="5330" started-at="2019-05-25T18:27:27Z" data-provider="name-data-provider" finished-at="2019-05-25T18:27:32Z">
           <params>
             <param index="0">
               <value>
@@ -478,7 +478,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="70" started-at="2019-05-25T16:14:46Z" finished-at="2019-05-25T16:14:46Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="71" started-at="2019-05-25T18:27:32Z" finished-at="2019-05-25T18:27:32Z">
           <params>
             <param index="0">
               <value>
@@ -489,11 +489,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="544" started-at="2019-05-25T16:14:46Z" finished-at="2019-05-25T16:14:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="621" started-at="2019-05-25T18:27:32Z" finished-at="2019-05-25T18:27:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_2_email(java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_2_email" duration-ms="5591" started-at="2019-05-25T16:14:47Z" data-provider="email-data-provider" finished-at="2019-05-25T16:14:52Z">
+        <test-method status="PASS" signature="TC_3_2_email(java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_2_email" duration-ms="5452" started-at="2019-05-25T18:27:33Z" data-provider="email-data-provider" finished-at="2019-05-25T18:27:38Z">
           <params>
             <param index="0">
               <value>
@@ -504,7 +504,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_2_email -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="70" started-at="2019-05-25T16:14:52Z" finished-at="2019-05-25T16:14:52Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="71" started-at="2019-05-25T18:27:38Z" finished-at="2019-05-25T18:27:38Z">
           <params>
             <param index="0">
               <value>
@@ -515,11 +515,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="540" started-at="2019-05-25T16:14:52Z" finished-at="2019-05-25T16:14:53Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="644" started-at="2019-05-25T18:27:38Z" finished-at="2019-05-25T18:27:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_2_email(java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_2_email" duration-ms="5559" started-at="2019-05-25T16:14:53Z" data-provider="email-data-provider" finished-at="2019-05-25T16:14:58Z">
+        <test-method status="PASS" signature="TC_3_2_email(java.lang.String)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_2_email" duration-ms="5622" started-at="2019-05-25T18:27:39Z" data-provider="email-data-provider" finished-at="2019-05-25T18:27:45Z">
           <params>
             <param index="0">
               <value>
@@ -530,7 +530,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_2_email -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="69" started-at="2019-05-25T16:14:58Z" finished-at="2019-05-25T16:14:59Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="69" started-at="2019-05-25T18:27:45Z" finished-at="2019-05-25T18:27:45Z">
           <params>
             <param index="0">
               <value>
@@ -541,11 +541,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="576" started-at="2019-05-25T16:14:59Z" finished-at="2019-05-25T16:14:59Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="624" started-at="2019-05-25T18:27:45Z" finished-at="2019-05-25T18:27:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="3455" started-at="2019-05-25T16:14:59Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T16:15:03Z">
+        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="3455" started-at="2019-05-25T18:27:45Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T18:27:49Z">
           <params>
             <param index="0">
               <value>
@@ -566,7 +566,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_3_3_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="69" started-at="2019-05-25T16:15:03Z" finished-at="2019-05-25T16:15:03Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="69" started-at="2019-05-25T18:27:49Z" finished-at="2019-05-25T18:27:49Z">
           <params>
             <param index="0">
               <value>
@@ -577,11 +577,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="558" started-at="2019-05-25T16:15:03Z" finished-at="2019-05-25T16:15:03Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="618" started-at="2019-05-25T18:27:49Z" finished-at="2019-05-25T18:27:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="4499" started-at="2019-05-25T16:15:03Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T16:15:08Z">
+        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="4308" started-at="2019-05-25T18:27:50Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T18:27:54Z">
           <params>
             <param index="0">
               <value>
@@ -602,7 +602,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_3_3_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="70" started-at="2019-05-25T16:15:08Z" finished-at="2019-05-25T16:15:08Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="79" started-at="2019-05-25T18:27:54Z" finished-at="2019-05-25T18:27:54Z">
           <params>
             <param index="0">
               <value>
@@ -613,11 +613,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="549" started-at="2019-05-25T16:15:08Z" finished-at="2019-05-25T16:15:08Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="609" started-at="2019-05-25T18:27:54Z" finished-at="2019-05-25T18:27:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="4510" started-at="2019-05-25T16:15:08Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T16:15:13Z">
+        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="4445" started-at="2019-05-25T18:27:55Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T18:27:59Z">
           <params>
             <param index="0">
               <value>
@@ -638,7 +638,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_3_3_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="70" started-at="2019-05-25T16:15:13Z" finished-at="2019-05-25T16:15:13Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="72" started-at="2019-05-25T18:27:59Z" finished-at="2019-05-25T18:27:59Z">
           <params>
             <param index="0">
               <value>
@@ -649,11 +649,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="560" started-at="2019-05-25T16:15:13Z" finished-at="2019-05-25T16:15:13Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="618" started-at="2019-05-25T18:27:59Z" finished-at="2019-05-25T18:28:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="3451" started-at="2019-05-25T16:15:13Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T16:15:17Z">
+        <test-method status="PASS" signature="TC_3_3_3_4(java.lang.String, java.lang.String, boolean)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_3_3_4" duration-ms="3204" started-at="2019-05-25T18:28:00Z" data-provider="fnamn-and-lastnamn-data-provider" finished-at="2019-05-25T18:28:03Z">
           <params>
             <param index="0">
               <value>
@@ -674,7 +674,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_3_3_4 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="69" started-at="2019-05-25T16:15:17Z" finished-at="2019-05-25T16:15:17Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="67" started-at="2019-05-25T18:28:03Z" finished-at="2019-05-25T18:28:03Z">
           <params>
             <param index="0">
               <value>
@@ -685,15 +685,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="540" started-at="2019-05-25T16:15:17Z" finished-at="2019-05-25T16:15:17Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="626" started-at="2019-05-25T18:28:03Z" finished-at="2019-05-25T18:28:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_3_5()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_5" duration-ms="6387" started-at="2019-05-25T16:15:17Z" finished-at="2019-05-25T16:15:24Z">
+        <test-method status="PASS" signature="TC_3_5()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_3_5" duration-ms="6612" started-at="2019-05-25T18:28:04Z" finished-at="2019-05-25T18:28:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_3_5 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="71" started-at="2019-05-25T16:15:24Z" finished-at="2019-05-25T16:15:24Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="72" started-at="2019-05-25T18:28:10Z" finished-at="2019-05-25T18:28:10Z">
           <params>
             <param index="0">
               <value>
@@ -704,15 +704,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="565" started-at="2019-05-25T16:15:24Z" finished-at="2019-05-25T16:15:25Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="704" started-at="2019-05-25T18:28:10Z" finished-at="2019-05-25T18:28:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_4_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_4_1" duration-ms="5244" started-at="2019-05-25T16:15:25Z" finished-at="2019-05-25T16:15:30Z">
+        <test-method status="PASS" signature="TC_4_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_4_1" duration-ms="7021" started-at="2019-05-25T18:28:11Z" finished-at="2019-05-25T18:28:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_4_1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="97" started-at="2019-05-25T16:15:30Z" finished-at="2019-05-25T16:15:30Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="78" started-at="2019-05-25T18:28:18Z" finished-at="2019-05-25T18:28:18Z">
           <params>
             <param index="0">
               <value>
@@ -723,11 +723,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="566" started-at="2019-05-25T16:15:30Z" finished-at="2019-05-25T16:15:30Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="618" started-at="2019-05-25T18:28:18Z" finished-at="2019-05-25T18:28:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="TC_4_2()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_4_2" duration-ms="4423" started-at="2019-05-25T16:15:30Z" finished-at="2019-05-25T16:15:35Z">
+        <test-method status="FAIL" signature="TC_4_2()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_4_2" duration-ms="5427" started-at="2019-05-25T18:28:19Z" finished-at="2019-05-25T18:28:24Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected:<https://www.zalando.se/kvinna/?q=C> but was:<https://www.zalando.se/kvinna-home/>]]>
@@ -772,7 +772,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_4_2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="767" started-at="2019-05-25T16:15:35Z" finished-at="2019-05-25T16:15:36Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="789" started-at="2019-05-25T18:28:24Z" finished-at="2019-05-25T18:28:25Z">
           <params>
             <param index="0">
               <value>
@@ -783,15 +783,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="598" started-at="2019-05-25T16:15:36Z" finished-at="2019-05-25T16:15:36Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="631" started-at="2019-05-25T18:28:25Z" finished-at="2019-05-25T18:28:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_5_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_5_1" duration-ms="81664" started-at="2019-05-25T16:15:36Z" finished-at="2019-05-25T16:16:58Z">
+        <test-method status="PASS" signature="TC_5_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_5_1" duration-ms="43413" started-at="2019-05-25T18:28:26Z" finished-at="2019-05-25T18:29:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_5_1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="91" started-at="2019-05-25T16:16:58Z" finished-at="2019-05-25T16:16:58Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="99" started-at="2019-05-25T18:29:09Z" finished-at="2019-05-25T18:29:09Z">
           <params>
             <param index="0">
               <value>
@@ -802,15 +802,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="643" started-at="2019-05-25T16:16:58Z" finished-at="2019-05-25T16:16:59Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="setup" is-config="true" duration-ms="671" started-at="2019-05-25T18:29:09Z" finished-at="2019-05-25T18:29:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC_7_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_7_1" duration-ms="280757" started-at="2019-05-25T16:16:59Z" finished-at="2019-05-25T16:21:39Z">
+        <test-method status="PASS" signature="TC_7_1()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="TC_7_1" duration-ms="279727" started-at="2019-05-25T18:29:10Z" finished-at="2019-05-25T18:33:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_7_1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="205" started-at="2019-05-25T16:21:39Z" finished-at="2019-05-25T16:21:40Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="getResult" is-config="true" duration-ms="218" started-at="2019-05-25T18:33:50Z" finished-at="2019-05-25T18:33:50Z">
           <params>
             <param index="0">
               <value>
@@ -821,7 +821,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="endReport" is-config="true" duration-ms="278" started-at="2019-05-25T16:21:40Z" finished-at="2019-05-25T16:21:40Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:G3SnowboardShopTest.STC_G03_Automation_Testing@15975490]" name="endReport" is-config="true" duration-ms="279" started-at="2019-05-25T18:33:50Z" finished-at="2019-05-25T18:33:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
