@@ -27,9 +27,9 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 		driver.get("https://www.zalando.se/kvinna-home/");
 		driver.findElement(By.xpath("//*[@id=\'z-navicat-header-root\']/header/div[3]/div/div/div/div/z-grid/z-grid-item/div/div[1]/div[3]/div/div[1]/a/span/span")).click();
 				
-		driver.findElement(By.name("login.email")).sendKeys("sureerat1988@gmail.com");
+		driver.findElement(By.name("login.email")).sendKeys("********");
 		Thread.sleep(2000);
-		driver.findElement(By.name("login.password")).sendKeys("sureerat2531");
+		driver.findElement(By.name("login.password")).sendKeys("*******");
 		driver.findElement(By.xpath("//html/body/div[4]/div/div/x-fragment-loginmodalreef/div/div/div/div[2]/z-grid/z-grid-item/div/div/div[2]/div/div/div[2]/div/form/z-grid/z-grid-item[3]/button")).click();
 		
 		Thread.sleep(3000);
