@@ -45,11 +45,7 @@ public class STC_G03_Automation_Testing extends ExtentReportsClass1 {
 	  
 	  	logger = extent.createTest("TC-2-2");
 		return new String[][]{
-				{"custo?er@test.se","sureerat1234"},
-				{"adm%n@test.se","sureerat1234"},
-				{"custämer1@test.se","sureerat1234"},
-				{"sure#rat1988@gmail.com","sureerat1234"}
-			};
+				
 	}	
 	
 	@Test(dataProvider="emails-and-passwords-unusual-data-provider")
